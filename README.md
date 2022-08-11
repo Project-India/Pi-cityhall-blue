@@ -42,9 +42,12 @@ ensure qb-cityhall
 ![Driving School DrawText Interaction](https://i.imgur.com/32BPp8f.png)
 ![Driving School QB-Target Interaction](https://i.imgur.com/P7jWBsV.png)
 
+# Support
+https://discord.gg/y2h3NNxydu
+
 # License
 
-    QBCore Framework
+    Project India
     Copyright (C) 2022 Project India
 
     This program is free software: you can redistribute it and/or modify
