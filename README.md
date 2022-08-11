@@ -43,7 +43,7 @@ ensure qb-cityhall
 ![Driving School QB-Target Interaction](https://i.imgur.com/P7jWBsV.png)
 
 # Support
-https://discord.gg/y2h3NNxydu
+https://discord.gg/Kd5B3KPnTv
 
 # License
 
